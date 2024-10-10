@@ -1,0 +1,15 @@
+2024-10-09 15:38:01.113 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:38:01.141 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
+2024-10-09 15:38:03.085 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:38:03.085 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
+2024-10-09 15:39:15.210 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:39:15.210 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
+2024-10-09 15:39:17.180 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:39:17.181 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
+2024-10-09 15:40:11.597 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:40:11.597 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
+2024-10-09 15:40:15.917 | INFO     | services.model_inference:predict:80 - making prediction!
+2024-10-09 15:52:49.588 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:52:49.590 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
+2024-10-09 15:52:51.927 | INFO     | services.model_inference:load_model:47 - checking the existance of model config file at model/rf_db_v4
+2024-10-09 15:52:51.928 | INFO     | services.model_inference:load_model:59 - model rf_db_v4 exists! -> loading model configuration file
